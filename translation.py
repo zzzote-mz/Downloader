@@ -7,7 +7,7 @@ Hei hi Telegram URL Upload Bot a ni e!
 /help for more details..
 
 Support Group : @MizoInFoTel1
-© @MizoInFoTel14 & MizoTGBot"""
+© @MizoInFoTel14 & @MizoTGBot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"

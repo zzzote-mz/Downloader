@@ -46,7 +46,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://t.me/MizoInFoTel14">Click</a>
+<b>👉 Subscribe Youtube Channel :</b> 👉 <a href="https://youtube.com/channel/UC-rDf7LGhEkPl35fpJHX6dg">Click</a>
 
 --------
 Send /me to know current plan details

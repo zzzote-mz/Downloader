@@ -31,17 +31,17 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [TG Bots Updates](https://telegram.dog/MizoTGBot)
+* [InFoTel Paid Apps](https://telegram.dog/MizoInFoTel14)
+* [InFoTel Group](https://telegram.dog/MizoInFoTel1)
 
 ## Credits, and Thanks to
 
-* [@SpEcHlDe](https://telegram.dog/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
+* [@ZauteKm](https://telegram.dog/MizoInFoTel1) for his [AnyDLBot](https://telegram.dog/urlupload_zkbot)
+* [ZauteKm](https://telegram.dog/ZauteKm) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [MizoInFoTel](https://telegram.dog/MizoInFoTel1) for his [UploaditBot](https://telegram.dog/YoutubeDL_zkbot)
 
-- For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/InFoTelGroup)
+- For FeedBack and Suggestions, please feel free to say in [Mizo InFoTel Group](https://telegram.dog/MizoInFoTel1)
 
 #### LICENSE
 - GPLv3

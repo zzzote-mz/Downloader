@@ -46,7 +46,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Subscribe Youtube Channel :</b> 👉 <a href="https://youtube.com/channel/UC-rDf7LGhEkPl35fpJHX6dg">Click</a>
+<b>👉 Youtube Channel :</b> 👉 <a href="https://youtube.com/channel/UC-rDf7LGhEkPl35fpJHX6dg">Click</a>
 
 --------
 Send /me to know current plan details
@@ -72,7 +72,7 @@ Support Group : @MizoInFoTel1
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
-    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/ThankTelegram'>@MizoTGBot</a>"
+    EXTRACT_ZIP_ERRS_OCCURED = "Sorry. Errors occurred while processing compressed file. Please check everything again twice, and if the issue persists, report this to <a href='https://telegram.dog/MizoInFoTel1'>@MizoInFoTel1</a>"
     EXTRACT_ZIP_STEP_TWO = """Select file_name to upload from the below options.
 You can use /rename command after receiving file to rename it with custom thumbnail support."""
     CANCEL_STR = "Process Cancelled"

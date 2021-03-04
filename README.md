@@ -15,9 +15,9 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-URL-Uploader/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSR-Downloader/rickyurl/tree/master)
 
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
+**Watch our Video for Create own Bot** - 👉 https://youtube.com/c/ArtInMirror
 
 #### The Hard Way
 
@@ -31,17 +31,18 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/MizoTGBot)
-* [InFoTel Paid Apps](https://telegram.dog/MizoInFoTel14)
-* [InFoTel Group](https://telegram.dog/MizoInFoTel1)
+* [RSR Bots Updates](https://telegram.dog/rsr4_bot)
+* [RSR Paid Apps](https://telegram.dog/mizolibrary)
+* [RSR Group](https://telegram.dog/mp3andvideodownloader)
 
 ## Credits, and Thanks to
 
-* [@ZauteKm](https://telegram.dog/MizoInFoTel1) for his [AnyDLBot](https://telegram.dog/urlupload_zkbot)
-* [ZauteKm](https://telegram.dog/ZauteKm) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [MizoInFoTel](https://telegram.dog/MizoInFoTel1) for his [UploaditBot](https://telegram.dog/YoutubeDL_zkbot)
+* [@rsrmusic](https://telegram.dog/rsrmusic) for his [Ricky💞](https://telegram.dog/rsr4_bot)
+* [RSR](https://telegram.dog/rsrmusic) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Mizo Library](https://telegram.dog/mizolibrary) for his [Ricky💞](https://telegram.dog/rsr4_bot)
 
-- For FeedBack and Suggestions, please feel free to say in [Mizo InFoTel Group](https://telegram.dog/MizoInFoTel1)
+
+- For FeedBack and Suggestions, please feel free to say in [Music Force](https://telegram.dog/mp3andvideodownloader)
 
 #### LICENSE
 - GPLv3
